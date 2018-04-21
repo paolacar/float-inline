@@ -1,0 +1,32 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+div{
+  width: 33.3%;
+  height: 400px;
+  float: left;
+  background-color: rgb(208, 15, 48);
+}
+
+div > img {
+  display: block;
+  width: 100%;
+}
+
+.uno{
+  width: 25%;
+  background-color: rgb(37, 22, 180);
+
+}
+
+.dos{
+  width: 35%;
+  background-color: rgb(11, 184, 168);
+}
+
+.tres {
+  width: 40%;
+  background-color: rgb(31, 215, 33);
+}
